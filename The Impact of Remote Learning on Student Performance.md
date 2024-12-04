@@ -31,9 +31,11 @@ Another key goal is to identify the primary challenges students face while adapt
 For this investigation, two hypotheses were formulated, each with its corresponding null hypothesis.
 
 **H1:** “Remote learning improves academic performance.”
+
 **NH1:** “There is no significant relationship between remote learning and academic performance.”
 
 **H2:** “Remote learning increases stress levels (decreases mental well-being).”
+
 **NH2:** “There is no significant relationship between remote learning and stress levels.”  
 
 ## Importance  
