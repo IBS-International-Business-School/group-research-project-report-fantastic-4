@@ -147,15 +147,7 @@ These findings highlight a key challenge: remote learning can work well for some
 ## Implications  
 The results show that remote learning works differently for everyone, which means educators need to take a more flexible approach. Encouraging engagement through interactive activities, regular feedback, and accessible tools can help students feel more connected and reduce stress. Educators should also focus on providing clear structures and resources to make remote learning more manageable.
 
-For students, the findings highlight the importance of creating a productive home setup and sticking to routines that minimize distractions. Building time management skills and reaching out for help when needed can make a big difference in handling the challenges of remote education. These insights can help both students and educators work together to improve the overall experience.  
-
-The results of this study highlight the multifaceted nature of remote learning's impact, emphasizing the need for educational institutions to adopt a balanced approach. By addressing both academic performance and mental well-being, institutions can better support their students in adapting to online education.
-
-For educators, the study suggests the importance of designing engaging and interactive online sessions to combat feelings of isolation and low participation. Providing diverse learning resources and flexible deadlines can help students balance their academic and personal responsibilities more effectively. Training programs for faculty on remote teaching techniques can ensure they are well-equipped to handle the challenges of virtual education.
-
-For students, the implications are clear: fostering self-discipline, creating a structured routine, and maintaining open communication with instructors and peers are essential for succeeding in a remote learning environment. Universities could also offer workshops on time management, stress reduction techniques, and optimizing home study setups to empower students further.
-
-On a broader level, the study suggests that institutions must continuously evaluate the effectiveness of their remote learning programs. Regular feedback mechanisms and data-driven decision-making can help refine online education practices, ensuring they remain aligned with the evolving needs of the student population. By proactively addressing these challenges, remote learning can transition from being a temporary solution to a sustainable and effective model of education.
+For students, the findings highlight the importance of creating a productive home setup and sticking to routines that minimize distractions. Building time management skills and reaching out for help when needed can make a big difference in handling the challenges of remote education. These insights can help both students and educators work together to improve the overall experience.
 
 ## Biases and Limitations  
 This research has some limitations that should be considered. The sample size of 86 students, while helpful, might not fully represent the entire IBS student body or other institutions. There’s also a chance of response bias, as students with strong opinions, whether positive or negative, were probably more likely to participate.
@@ -190,12 +182,6 @@ Finally, home support is crucial. Providing resources on setting up ergonomic an
 ## Closing Statement  
 This research shows that remote learning has its ups and downs. While it offers flexibility and new opportunities, challenges like stress, low engagement, and distractions can’t be ignored. By addressing these issues, IBS has a chance to make remote learning more effective and supportive for everyone, helping students succeed both academically and mentally.  
 
-##  Holistic Approach to Remote Learning
-This research emphasizes that remote learning impacts students in varied ways, highlighting the need for a more personalized and adaptable approach. While technological proficiency and flexible learning environments benefited some, others faced challenges such as increased stress, lower engagement, and a sense of isolation.
-
-Addressing these issues requires a holistic strategy that considers both academic and emotional factors. By focusing on interactive learning methods, mental health support, and creating conducive home environments, institutions like IBS can ensure that remote education becomes a tool for growth rather than a barrier.
-
-Ultimately, the findings underscore that the success of remote learning lies in its ability to adapt to diverse student needs, making education accessible, engaging, and supportive for everyone.
 ---
 
 # Reflection  
