@@ -20,7 +20,7 @@ In recent years, the world has become increasingly digitalized, but it was in 20
 
 Coursera, a company specializing in digital education, published an impact report in 2021 highlighting this dramatic shift. According to the report, the number of registered learners on their platform increased by 61% from 2019 to 2020. Additionally, course enrollments rose from 76 million in 2019 to 143 million in 2020, an impressive 88% increase in just one year (Coursera, 2021).
 
-![More learners are accessing online learning](1Coursera_Charts.png)  
+![More learners are accessing online learning](Images/1Coursera_Charts.png)  
 
 ## Research Objectives  
 One of the main objectives of this research is to explore how remote learning influences students’ academic performance, both positively and negatively. Equally important is the examination of its impact on mental well-being, particularly stress levels, which are often overlooked in the discussion of online education.
@@ -76,24 +76,24 @@ To prepare the data for analysis, categorical responses were converted into nume
 ## Academic Performance  
 The impact of remote learning on academic performance was mixed. According to the survey, 34.1% of students reported a decline in performance, while 32.9% experienced no change, and 32.9% noted improvements. This even distribution highlights the varied experiences among students during remote learning.
 
-![Changes in Academic Performance Due to Remote Learning](2Chart.png)  
+![Changes in Academic Performance Due to Remote Learning](Images/2Chart.png)  
 
 Engagement levels also showed variation, with 41.2% of students reporting high engagement (ratings 4–5), while 32.9% rated their engagement as moderate (rating 3), and 25.9% reported low engagement (ratings 1–2). Higher engagement levels were more prevalent among graduate and MBA students.
 
-![Engagement Levels by Education Level](3Chart.png) 
+![Engagement Levels by Education Level](Images/3Chart.png) 
 
 Regarding the ability to meet deadlines, 42.4% of students found it easier to complete assignments, while 41.2% reported no change. Only 16.5% reported challenges in meeting deadlines. This suggests that for many, remote learning offered flexibility that helped them manage their workload effectively.
 
-![Impact of Remote Learning on Meeting Deadlines by Education Level](4Chart.png)   
+![Impact of Remote Learning on Meeting Deadlines by Education Level](Images/4Chart.png)   
 
 ## Mental Well-Being  
 The impact of remote learning on mental well-being varied significantly among students. 34.1% of respondents reported that their stress levels “sometimes increased,” while 31.8% experienced no change. Meanwhile, 24.7% noted a decrease in stress levels, reflecting a wide range of experiences with stress management during remote learning.
 
-![Changes in Stress Levels During Remote Learning](5Chart.png)  
+![Changes in Stress Levels During Remote Learning](Images/5Chart.png)  
 
 Isolation was another key challenge faced by students. 58.8% reported feeling isolated at least occasionally, with 27.1% experiencing rare isolation, and only 15.3% indicating they never felt isolated. This highlights the emotional challenges remote learning presented for many students.
 
-![Frequency of Feeling Isolated During Remote Learning](6Chart.png)  
+![Frequency of Feeling Isolated During Remote Learning](Images/6Chart.png)  
 
 The survey also identified several factors contributing to stress during remote learning, such as time management, technical difficulties, and lack of in-person interaction. Other challenges included maintaining engagement, handling increased workloads, and limited access to support from instructors and peers.
 
@@ -102,11 +102,11 @@ These findings underline the mental health struggles that students faced in adap
 ## Technology and Environment  
 Access to reliable internet and proficiency with remote learning tools were key factors in the effectiveness of remote learning. The survey revealed that 82.4% of students rated themselves as having high proficiency with technology (ratings 4–5), while 11.8% rated themselves as moderately proficient (rating 3), and only 5.9% reported low proficiency (ratings 1–2). This indicates that most students were confident in using the necessary tools for remote learning.
 
-![Proficiency with Technology for Remote Learning](7Chart.png) 
+![Proficiency with Technology for Remote Learning](Images/7Chart.png) 
 
 When evaluating home learning environments, over 50% of students with highly rated environments (ratings 4–5) reported experiencing distractions “Never” or “Rarely.” Conversely, students with lower-rated environments (ratings 1–3) were more likely to report frequent distractions, with responses of “Often” or “Always.” This pattern suggests that better home environments provide conditions that minimize interruptions, while poorer environments contribute to higher levels of distraction.
 
-![Home Learning Environment and Frequency of Distractions](8Chart.png) 
+![Home Learning Environment and Frequency of Distractions](Images/8Chart.png) 
 
 These findings emphasize the importance of both technical readiness and conducive home environments in enhancing the remote learning experience. 
 
@@ -117,7 +117,7 @@ However, the relationship is weak, indicating that academic performance alone do
 
 This finding highlights the complexity of mental well-being during remote learning, showing that academic success isn’t the sole factor in reducing stress. It underscores the importance of addressing a combination of factors to better support students’ mental health and academic outcomes.
 
-![Correlation Between Academic Performance and Stress Levels](9Chart.png)  
+![Correlation Between Academic Performance and Stress Levels](Images/9Chart.png)  
   
 ## Regression Analysis: Impact of Engagement Levels on Stress Levels  
 The purpose of this analysis was to determine whether students’ engagement in remote learning affected their stress levels. Specifically, we wanted to understand if staying more engaged during online classes could help reduce stress, offering insights into how mental well-being might be improved through higher participation.
@@ -126,7 +126,7 @@ The regression analysis revealed a weak negative correlation, with an R² value 
 
 These results suggest that while keeping students engaged can have a small positive effect on stress levels, it isn’t enough on its own. Other factors, such as home environment, personal circumstances, or academic workload, likely play a bigger role in influencing stress during remote learning.
 
-![Engagement Levels vs. Stress Levels](10Chart.png)  
+![Engagement Levels vs. Stress Levels](Images/10Chart.png)  
   
 ---
 
