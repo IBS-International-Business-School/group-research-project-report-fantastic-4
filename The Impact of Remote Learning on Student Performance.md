@@ -4,16 +4,16 @@
 
 **Module Code:** SKIB408  
 **Module Title:** Skills for Data Analysts  
-**Module Leader:** Gergely Tamasi  
+**Module Leader:** Gergely Tamasi
 **Academic Year:** 2024  
 
-**Students:** Federico Merino Barrera, Shreyas Satish Sawant  
-**Wordcount:** 2,763  
-**Date of submission:** 05/12/2023  
+**Students:** Federico Merino Barrera, Shreyas Satish Sawant 
+**Wordcount:** 2,763
+**Date of submission:** 05/12/2023
 
 ---
 
-# Introduction  
+# Introduction 
 
 ## Context  
 In recent years, the world has become increasingly digitalized, but it was in 2020 that one of the biggest societal shifts took place due to the Covid-19 pandemic. Almost overnight, the world had to adapt to a fully digital environment, including the educational system. Daily routines of attending school or university, socializing with classmates and teachers, were replaced by hours spent at home in front of a screen, listening to lectures. Today, remote education has become a normal part of many institutions, but the rapid shift left little time for analysis or preparation to transition from a physical to a digital learning mode.
