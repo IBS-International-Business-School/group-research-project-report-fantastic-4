@@ -10,7 +10,7 @@
 
 **Academic Year:** 2024  
 
-**Students:** Federico Merino Barrera, Shreyas Satish Sawant, Mohamed Tabka
+**Students:** Federico Merino Barrera, Shreyas Satish Sawant, Mohamed Tabka, Adam Khan
 
 **Wordcount:** 2,763
 
