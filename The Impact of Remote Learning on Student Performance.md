@@ -2,13 +2,18 @@
 #### Group Home Assignment – Research Survey
 
 
-**Module Code:** SKIB408  
-**Module Title:** Skills for Data Analysts  
+**Module Code:** SKIB408
+
+**Module Title:** Skills for Data Analysts
+
 **Module Leader:** Gergely Tamasi
+
 **Academic Year:** 2024  
 
-**Students:** Federico Merino Barrera, Shreyas Satish Sawant ,Mohamed Tabka
+**Students:** Federico Merino Barrera, Shreyas Satish Sawant, Mohamed Tabka
+
 **Wordcount:** 2,763
+
 **Date of submission:** 05/12/2023
 
 ---
